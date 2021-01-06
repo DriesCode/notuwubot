@@ -5,5 +5,3 @@ Twitter bot developed to reply every 2 hours to most-recent tweets with the word
 https://twitter.com/notuwubot
 
 ## Languages: Javascript & NodeJS & Twitter API
-
-### Author: Adrián Escalona (Dries) // http://dries.glitch.me // https://twitter.com/a7escalona // adri7escalona@gmail.com
